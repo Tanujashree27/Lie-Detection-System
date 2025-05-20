@@ -1,5 +1,5 @@
 
-# Facial Expression-Based Lie Detection Using Deep Learning
+# Facial Expression-Based Lie Detection Using Deep Learning.
 
 This project uses deep learning techniques to classify facial expressions from images into two categories: **Truth** and **Lie**. It leverages transfer learning with MobileNetV2 to achieve robust performance on a Kaggle dataset.
 
