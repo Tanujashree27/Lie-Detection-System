@@ -15,7 +15,7 @@ The dataset used is from [Kaggle](https://www.kaggle.com), consisting of facial 
 ### Dataset Summary:
 
 * **Training Images**: 14,108
-* **Validation Images**: 3,526
+* **Validation Images**: 3,526.
 * **Classes**: 2 (truth, lie)
 
 ---
