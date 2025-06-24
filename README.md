@@ -92,7 +92,7 @@ python train_model.py
 * Fine-tune MobileNetV2 layers.
 * Explore deeper models like EfficientNet or custom CNNs.
 * Apply better regularization and more balanced class handling.
-* Incorporate temporal features for video-based lie detection.
+* Incorporate temporal features for video-based lie detection
 
 ---
 
